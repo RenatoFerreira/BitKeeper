@@ -1,0 +1,12 @@
+ é um software ferramenta para controle de versão distribuído ( gerenciamento de configuração , SCM , etc)
+ do computador de código-fonte . Um sistema distribuído, BitKeeper concorre em grande parte contra outros sistemas,
+ como o Git e Mercurial . BitKeeper é produzido por BitMover Inc., uma empresa privada sediada em Campbell, 
+ Califórnia [ 2 ] e de propriedade do CEO Larry McVoy , que já havia projetado TeamWare .
+BitKeeper baseia-se em muitos dos conceitos TeamWare. Seu ponto de venda é o fato de que é uma distribuído ferramenta 
+de controle de versão, ao contrário do CVS ou SVN . Uma das características definidoras de qualquer 
+ferramenta de controle de versão distribuído é a facilidade com que as equipes de desenvolvimento distribuídas 
+podem manter seus próprios repositórios locais e ainda trabalhar com o repositório central. Seu web site afirma 
+que "BitKeeper foi mostrado para o dobro do ritmo de desenvolvimento de software".
+BitKeeper usa arquivos de histórico que são baseados na idéia das tabelas delta e 
+deltas entrelaçados de CCSC , mas os arquivos de histórico do BitKeeper são feitos intencionalmente 
+incompatível usando um diferente número mágico (0x48 0x01 em vez de 0x68 0x01) no início. 
