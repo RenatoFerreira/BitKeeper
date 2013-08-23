@@ -10,3 +10,16 @@ que "BitKeeper foi mostrado para o dobro do ritmo de desenvolvimento de software
 BitKeeper usa arquivos de histórico que são baseados na idéia das tabelas delta e 
 deltas entrelaçados de CCSC , mas os arquivos de histórico do BitKeeper são feitos intencionalmente 
 incompatível usando um diferente número mágico (0x48 0x01 em vez de 0x68 0x01) no início. 
+
+
+Licença preocupações 
+
+A decisão tomada em 2002 de usar BitKeeper para o desenvolvimento do kernel Linux foi controversa. 
+Alguns, nomeadamente Projeto GNU fundador Richard Stallman , expressou preocupação com ferramentas proprietárias sendo 
+usados ​​em um projeto gratuito da capitânia. Enquanto líder do projeto Linus Torvalds e outros desenvolvedores do núcleo 
+adotado BitKeeper, vários desenvolvedores-chave (incluindo Linux veterano Alan Cox ) se recusou a fazê-lo, 
+citando a licença BitMover, e expressando preocupação de que o projeto foi ceder algum controle para um desenvolvedor 
+de propriedade. Para atenuar estas preocupações, BitMover adicionado gateways que permitiu a interoperabilidade limitada
+entre os servidores do BitKeeper Linux (mantida por BitMover) e desenvolvedores que utilizam o CVS e Subversion. 
+Mesmo após esta adição, flamewars [ 8 ] , ocasionalmente, eclodiu no Linux kernel mailing list , muitas vezes envolvendo 
+desenvolvedores do kernel-chave e CEO BitMover Larry McVoy , que também é um desenvolvedor de Linux.
